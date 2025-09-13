@@ -1,15 +1,15 @@
 Shreya  Sharma
+
 Data Scientist
 
-Kangra
+Profile:
 
 Aspiring data scientist with a strong foundation in mathematics, statistics, and computational thinking. Skilled in Python programming and analytical problem-solving, with a keen interest in applying data-driven insights to solve real-world challenges. Highly motivated, adaptable, and eager to learn emerging technologies in the field of data science
 
 PERSONAL INFORMATION
   
   Nationality: 
-  
-  Indian
+   Indian
   
   Hobbies:
   
@@ -20,6 +20,7 @@ PERSONAL INFORMATION
   Listening Music
 
 SOCIAL PROFILES
+
   * LinkedIn: https://in.linkedin.com/in/shreya-sharma-245a18367
 
 LANGUAGES
@@ -40,13 +41,9 @@ SKILLS
   
   Critical Thinking
 
-WORK EXPERIENCE
-
-  * 
-     at , 
-
 
 EDUCATION
+
   * January 2013 – January 2025
     Partap World School - India
      
