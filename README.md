@@ -18,8 +18,9 @@ SOCIAL PROFILES
 
 LANGUAGES
 
-   ****Hindi
-   ****English
+   Hindi
+   
+   English
 
 SKILLS
   Engagement in Activities
@@ -29,6 +30,7 @@ SKILLS
   Critical Thinking
 
 WORK EXPERIENCE
+
   * 
      at , 
 
@@ -42,8 +44,10 @@ EDUCATION
     Motivated and detail-oriented student with strong academic foundations, having completed Class 10 and 12 under CBSE from Partap World School, Indora. Currently pursuing the IIT Madras BS in Data Science and Applications (Foundation Level), gaining hands-on experience in mathematics, statistics, computational thinking, and Python programming. Eager to apply analytical and problem-solving skills to real-world challenges, with a long-term goal of becoming a data scientist.
 
 COURSES
+
   * 
-    Machine Learning, 
+    Machine Learning,
+    
   * 
     Python Basics, 
 
