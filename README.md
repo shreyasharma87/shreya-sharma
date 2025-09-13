@@ -17,8 +17,9 @@ SOCIAL PROFILES
   * LinkedIn: https://in.linkedin.com/in/shreya-sharma-245a18367
 
 LANGUAGES
-   Hindi
-   English
+
+   ****Hindi
+   ****English
 
 SKILLS
   Engagement in Activities
