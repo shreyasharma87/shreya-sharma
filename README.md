@@ -7,12 +7,15 @@ Aspiring data scientist with a strong foundation in mathematics, statistics, and
 
 PERSONAL INFORMATION
   Address: 
-  Kangra, Himachal Pradesh, India, Kangra, 
+  
+  Kangra, Himachal Pradesh, India
+  
   Nationality: 
   
   Indian
   
   Hobbies:
+  
   Reading fictional books 
   
   Travelling
@@ -29,6 +32,7 @@ LANGUAGES
    English
 
 SKILLS
+
   Engagement in Activities
   
   Teamwork
