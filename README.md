@@ -6,9 +6,6 @@ Kangra
 Aspiring data scientist with a strong foundation in mathematics, statistics, and computational thinking. Skilled in Python programming and analytical problem-solving, with a keen interest in applying data-driven insights to solve real-world challenges. Highly motivated, adaptable, and eager to learn emerging technologies in the field of data science
 
 PERSONAL INFORMATION
-  Address: 
-  
-  Kangra, Himachal Pradesh, India
   
   Nationality: 
   
