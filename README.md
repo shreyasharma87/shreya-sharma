@@ -9,7 +9,7 @@ Aspiring data scientist with a strong foundation in mathematics, statistics, and
 PERSONAL INFORMATION
   
   Nationality: 
-   Indian
+    Indian
   
   Hobbies:
   
@@ -31,15 +31,15 @@ LANGUAGES
 
 SKILLS
 
-  Engagement in Activities
+   Engagement in Activities
   
-  Teamwork
+   Teamwork
   
-  Academic Excellence
+   Academic Excellence
   
-  Problem Solving
+   Problem Solving
   
-  Critical Thinking
+   Critical Thinking
 
 
 EDUCATION
