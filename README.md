@@ -11,7 +11,7 @@ PERSONAL INFORMATION
   Nationality: 
     Indian
   
-  Hobbies:
+ Hobbies:
   
   Reading fictional books 
   
