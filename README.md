@@ -6,12 +6,18 @@ Kangra
 Aspiring data scientist with a strong foundation in mathematics, statistics, and computational thinking. Skilled in Python programming and analytical problem-solving, with a keen interest in applying data-driven insights to solve real-world challenges. Highly motivated, adaptable, and eager to learn emerging technologies in the field of data science
 
 PERSONAL INFORMATION
-  Address: Kangra, Himachal Pradesh, India, Kangra, 
+  Address: 
+  Kangra, Himachal Pradesh, India, Kangra, 
   Nationality: 
-  Driving License: 
-  Hobbies: Reading fictional books 
-Travelling
- Listening Music
+  
+  Indian
+  
+  Hobbies:
+  Reading fictional books 
+  
+  Travelling
+  
+  Listening Music
 
 SOCIAL PROFILES
   * LinkedIn: https://in.linkedin.com/in/shreya-sharma-245a18367
@@ -24,9 +30,13 @@ LANGUAGES
 
 SKILLS
   Engagement in Activities
+  
   Teamwork
+  
   Academic Excellence
+  
   Problem Solving
+  
   Critical Thinking
 
 WORK EXPERIENCE
@@ -37,7 +47,8 @@ WORK EXPERIENCE
 
 EDUCATION
   * January 2013 – January 2025
-    Partap World School - India,  
+    Partap World School - India
+     
   * September 2025
     IIT Madras,  BS Degree
 
@@ -46,8 +57,8 @@ EDUCATION
 COURSES
 
   * 
-    Machine Learning,
+    Machine Learning
     
   * 
-    Python Basics, 
+    Python Basics 
 
